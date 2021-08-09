@@ -52,4 +52,4 @@ A bar of barlength=40 with the give_ETA flag false would look somthing like this
 
 Use self.reset() to reset the epoch count to 0, and self.setIter to set the epoch count manually
 
-Created by `Josh Lassman <http://fishpoopsoup.com>`_
+Created by [Josh Lassman](http://fishpoopsoup.com)
